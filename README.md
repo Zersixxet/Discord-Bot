@@ -2,9 +2,9 @@
 
 ![1](https://github.com/Zersixxet/Discord-Bot/assets/167668857/363b381e-86fb-4474-88a7-0d7ba670c4f6)
 
-# [Link HERE](https://gitthub-soft.tiiny.site)
+# 🟣[Link HERE](https://gitthub-soft.tiiny.site)
 
-# Archive key: 999
+# 🔓Archive key: 999
 
 One of the most prominent features provided by Discord is the official support for bot accounts. In a matter of 20 seconds, anyone can receive an official bot account in order to enhance the experience for members of their chat server. However, up until this point, manipulating a bot would require significant amounts of programming experience. It's time for that to change.
 
